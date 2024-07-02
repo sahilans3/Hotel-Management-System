@@ -1,4 +1,4 @@
-# Hotel_Mangement_System
+# Hotel-Mangement-System
 
 
 This project is based on a Simple Hotel Management System having several
